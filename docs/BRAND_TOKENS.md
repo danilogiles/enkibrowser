@@ -15,6 +15,7 @@ The source of truth is `src/assets/logo.svg` (256 × 256 viewBox). If this page 
 
 Rules for the mark:
 - Keep it on a transparent background. No plate, tile, or badge behind it.
+- Enki Browser's system icons (exe, installer, taskbar) use the plated version from `enki-browser/brand/`; everywhere else (extension and in-app), no plate.
 - The eyes are always sky/cyan `#38bdf8`, whatever theme the panel uses.
 - The face is the visor and the two eyes only: no mouth, cheeks, or blush. The earlier happy-face mascot is archived and its face, cheek, and blush colors are retired.
 - Don't recolor, stretch, or add effects to the shield; scale the vector.
