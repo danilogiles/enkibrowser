@@ -1,5 +1,7 @@
 # Enki
 
+> **This repository has moved.** Enki now lives in [danilogiles/enki-browser](https://github.com/danilogiles/enki-browser), in the [`extension/`](https://github.com/danilogiles/enki-browser/tree/main/extension) folder, with its full history. Issues, discussions and pull requests go there. This repository is archived and read-only.
+
 **An open-source AI assistant for any Chromium browser. Bring your own model.**
 
 Enki lives in the browser side panel. It sees the page you are looking at, answers questions about it, and, when you let it, navigates, clicks and types for you. Think of the assistant in Perplexity's Comet, but free, open, and working with whichever model you already pay for (or run locally).
